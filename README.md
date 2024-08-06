@@ -26,9 +26,6 @@ The architecture consists of the following components:
 Before you begin, ensure you have the following:
 
 - An AWS account
-- AWS CLI installed and configured
-- Serverless Framework installed globally
-
 
 
 ## API Endpoints
